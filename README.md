@@ -1,3 +1,3 @@
 # PowerBI-projects
-PowerBI related all project are available herewor
+PowerBI related all project are available here
 workbench dashboard
